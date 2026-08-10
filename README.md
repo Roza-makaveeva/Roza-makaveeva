@@ -5,7 +5,6 @@ PySpark, Jupyter Notebook, Clickhouse, предобработка данных, 
 данных, статистика, построение дашбордов, A/B тесты, ad hoc задачи.
 
 - 📫 Контакты: roza.makaveeva@yandex.ru / https://t.me/roza_makaveeva
-- 
 <!--
 **Roza-makaveeva/Roza-makaveeva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
